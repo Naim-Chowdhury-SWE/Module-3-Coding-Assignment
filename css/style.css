@@ -41,4 +41,7 @@ h3 {
     article {
         width: 49% !important;
     }
+    #art3 {
+        width: 99% !important;
+    }
 }
