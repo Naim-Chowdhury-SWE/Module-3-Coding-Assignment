@@ -13,11 +13,12 @@ header {
 .nav-link {
     margin: 2vh;
     border:2px solid #000;
-    border-radius: 2rem;
+    border-radius: 3rem;
 }
 
 article {
     background-color: #a7a7a7;
+    border-radius: 3rem;
 }
 
 h3 {
