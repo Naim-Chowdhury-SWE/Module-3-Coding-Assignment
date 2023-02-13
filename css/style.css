@@ -38,7 +38,7 @@ h3 {
     }
 }
 @media screen and (min-width: 992px) and (max-width: 1199px){
-    article {
+    #art1, #art2 {
         width: 49% !important;
     }
     #art3 {
