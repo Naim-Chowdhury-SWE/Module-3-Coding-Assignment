@@ -25,6 +25,10 @@ h3 {
     color: #fff;
 }
 
+#end {
+    font-weight: bold;
+}
+
 
 @media screen and (max-width: 991px){
 
